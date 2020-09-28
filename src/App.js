@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Con docker-compose no hace tests o si?
+          Cambiado a la rama de desarrollo
         </p>
         <a
           className="App-link"
